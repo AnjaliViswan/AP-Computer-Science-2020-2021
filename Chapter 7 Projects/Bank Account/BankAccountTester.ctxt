@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BankAccountTester
+comment0.text=\r\n\ \ \ A\ bank\ account\ has\ a\ balance\ and\ a\ mechanism\ for\ applying\ interest\ or\ fees\ at\ \r\n\ \ \ the\ end\ of\ the\ month.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=BankAccountTester()
+comment2.text=\r\n\ \ \ \ \ \ Constructs\ a\ bank\ account\ with\ zero\ balance.\r\n
+comment3.params=initialBalance
+comment3.target=void\ BankAccount2(double)
+comment3.text=\r\n\ \ \ \ \ \ Constructs\ a\ bank\ account\ with\ an\ initial\ balance.\r\n
+comment4.params=amount
+comment4.target=void\ deposit(double)
+comment4.text=\r\n\ \ \ \ \ \ Makes\ a\ deposit\ into\ this\ account.\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ of\ the\ deposit\r\n
+comment5.params=amount
+comment5.target=void\ withdraw(double)
+comment5.text=\r\n\ \ \ \ \ \ Makes\ a\ withdrawal\ from\ this\ account,\ or\ charges\ a\ penalty\ if\r\n\ \ \ \ \ \ sufficient\ funds\ are\ not\ available.\r\n\ \ \ \ \ \ @param\ amount\ the\ amount\ of\ the\ withdrawal\r\n
+comment6.params=rate
+comment6.target=void\ addInterest(double)
+comment6.text=\ \r\n\ \ \ \ \ \ Carre\ \r\n
+comment7.params=
+comment7.target=void\ monthEnd()
+comment7.text=\r\n\ \ \ \ \ \ Carries\ out\ the\ end\ of\ month\ processing\ that\ is\ appropriate\r\n\ \ \ \ \ \ for\ this\ account.\r\n
+comment8.params=
+comment8.target=double\ getBalance()
+comment8.text=\r\n\ \ \ \ \ \ Gets\ the\ current\ balance\ of\ this\ bank\ account.\r\n\ \ \ \ \ \ @return\ the\ current\ balance\r\n
+numComments=9

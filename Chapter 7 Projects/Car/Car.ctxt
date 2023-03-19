@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=milesPerGallon
+comment2.target=Car(int)
+comment3.params=
+comment3.target=void\ setFuel()
+comment4.params=miles
+comment4.target=void\ drive(int)
+comment5.params=gas
+comment5.target=void\ addGas(int)
+comment6.params=
+comment6.target=int\ getGasInTank()
+numComments=7

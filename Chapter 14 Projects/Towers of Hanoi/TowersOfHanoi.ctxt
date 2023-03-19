@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TowersOfHanoi
+comment1.params=numDiscs\ fromPeg\ toPeg\ freePeg
+comment1.target=void\ hanoi(int,\ int,\ int,\ int)
+numComments=2

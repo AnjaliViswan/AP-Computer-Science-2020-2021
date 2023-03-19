@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SelectionSorter
+comment0.text=\r\n\ \ \ The\ sort\ method\ of\ this\ class\ sorts\ an\ array,\ using\ the\ selection\ \r\n\ \ \ sort\ algorithm.\r\n
+comment1.params=a
+comment1.target=void\ sort(int[])
+comment1.text=\r\n\ \ \ \ \ \ Sorts\ an\ array,\ using\ selection\ sort.\r\n\ \ \ \ \ \ @param\ a\ the\ array\ to\ sort\r\n
+comment2.params=a\ from
+comment2.target=int\ minimumPosition(int[],\ int)
+comment2.text=\r\n\ \ \ \ \ \ Finds\ the\ smallest\ element\ in\ a\ tail\ range\ of\ the\ array.\r\n\ \ \ \ \ \ @param\ a\ the\ array\ to\ sort\r\n\ \ \ \ \ \ @param\ from\ the\ first\ position\ in\ a\ to\ compare\r\n\ \ \ \ \ \ @return\ the\ position\ of\ the\ smallest\ element\ in\ the\r\n\ \ \ \ \ \ range\ a[from]\ .\ .\ .\ a[a.length\ -\ 1]\r\n
+numComments=3
